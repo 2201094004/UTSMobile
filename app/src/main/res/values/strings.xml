@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS Syavira</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Masukkan Username</string>
+    <string name="password_hint">Masukkan Password</string>
+    <string name="save">Simpan</string>
+    <string-array name="status_options">
+        <item>Selesai</item>
+        <item>Belum Selesai</item>
+    </string-array>
+
+</resources>
